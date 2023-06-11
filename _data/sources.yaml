@@ -1,23 +1,59 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+- id: doi:10.1109/TMECH.2021.3071394
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/3516/9515346/9397352/chen1-3071394-large.gif
+  title: Topology Optimization of Skeleton-Reinforced Soft Pneumatic Actuators for Desired Motions
+  authors:
+  - Shitong Chen
+  - Feifei Chen
+  - Zizheng Cao
+  - Yusheng Wang
+  - Yunpeng Miao
+  - Guoying Gu
+  - Xiangyang Zhu
+  publisher: IEEE/ASME Transactions on Mechatronics 
+  date: '2021-04-06'
+  link: https://ieeexplore.ieee.org/abstract/document/9397352
+  description: We present a design paradigm for soft pneumatic multimaterial actuators by incorporating a stiffer material layer as a skeleton to softer inflated rubber. A topology optimization-based framework is used to automatically generate the skeleton layout, enabling desired motions like bending or twisting. Our approach considers geometric and material nonlinearities, achieving high-performance bending (73°) and twisting (143°) actuators. The design methodology offers a rigorous and efficient solution for generating material layouts that deliver spatially varying deformation upon actuation.
+  
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: 10.1109/TRO.2019.2920108
+  title: Automatic Design of Soft Dielectric Elastomer Actuators With Optimal Spatial Electric Fields
+  authors:
+  - Feifei Chen
+  - Kun Liu
+  - Yiqiang Wang
+  - Jiang Zou
+  - Guoying Gu
+  - Xiangyang Zhu
+  publisher: IEEE Transactions on Robotics 
+  date: '2019-06-20'
+  link: https://ieeexplore.ieee.org/abstract/document/8742767
+  description: Dielectric elastomer actuators (DEAs) are a promising actuation technology in soft robotics owing to their large voltage-induced deformation and rapid response. In this paper, we present an automatic design methodology to maximize the concerned displacement(s) of DEAs by topology optimization of the applied spatial electric fields (SEFs). We implement our method for motions of single and multiple degrees of freedom (DOFs) of planar DEAs, and the optimized SEFs have been found to improve the output displacements by more than 75% compared with their intuitive counterparts. Overall, our paper represents the first step toward automatic design of soft DEAs for diverse potential applications in soft machines and robots.
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8860/8855036/8742767/gu11-2920108-large.gif
+
+- id: 10.3390/polym12030619
+  title: A Unidirectional Soft Dielectric Elastomer Actuator Enabled by Built-In Honeycomb Metastructures
+  authors:
+  - Kun Liu
+  - Shitong Chen
+  - Feifei Chen
+  - Xiangyang Zhu
+  publisher: Polymers 
+  date: '2020-03-09'
+  link: https://www.mdpi.com/2073-4360/12/3/619
+  description: The programmable actuation of DEAs along a predefined direction is challenging. In this paper, we provide an innovative solution to this problem by harnessing honeycomb metastructures to program the mechanical behavior of dielectric elastomers. To achieve uniaxial actuation and maximize its magnitude, we develop a finite element analysis model and study how the prestretch ratios and the honeycomb structuring tailor the voltage-induced deformation. We also provide a scalable fabrication solution by directly printing honeycomb lattices made of thermoplastic polyurethane on dielectric membranes with natural bonding. The preliminary experiments demonstrate that our designed DEA is able to undergo unidirectional motion, with the nominal strain reaching up to 15.8%.
+  image: https://www.mdpi.com/polymers/polymers-12-00619/article_deploy/html/images/polymers-12-00619-g001.png
+
+- id: 10.1109/TMECH.2020.3043883
+  title: An Integrated Design and Fabrication Strategy for Planar Soft Dielectric Elastomer Actuators
+  authors:
+  - Feifei Chen
+  - Kun Liu
+  - Qi Pan
+  - Shitong Chen
+  - Xiangyang Zhu
+  publisher: IEEE/ASME Transactions on Mechatronics 
+  date: '2020-12-10'
+  link: https://ieeexplore.ieee.org/abstract/document/9290427
+  description: we present an integrated design strategy for planar DEAs, aiming to realize their full potential. To endow the actuator module with the maximal actuation strain, we carry out dimensionless analysis to identify the key design variables, develop a fast finite element analysis model, and thoroughly investigate how the geometric structuring and the material prestretch tailor the voltage-induced deformation. The experiments show that the optimized actuator obtains a remarkable nominal strain up to 38.6%. We also characterize the dynamic performance of the optimized actuator, evaluate its energy density and power density, and develop a soft locomotion robot that can crawl through a confined tunnel, at a fast moving speed up to 0.17 body length/s.
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/3516/9570750/9290427/chen1-3043883-large.gif

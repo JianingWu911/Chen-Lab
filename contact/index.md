@@ -1,33 +1,28 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 4
   tooltip: Email, address, and location
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab members come from the following institutions:
+1. State Key Laboratory of Mechanical System and Vibration, Shanghai Jiao Tong University, Shanghai 200240, China.
+2. School of Mechanical Engineering, Shanghai Jiao Tong University, Shanghai 200240, China.
+3. Meta Robotics Institute, Shanghai Jiao Tong University, Shanghai 200240, China.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="ffchen@sjtu.edu.cn"
+  link="ffchen@sjtu.edu.cn"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://goo.gl/maps/j5MvDPxDZj4XMWsc6"
 %}
 
 {% include section.html %}
@@ -36,8 +31,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/sjtu.jpeg"
+  caption="Shanghai Jiao Tong University"
 %}
 
 {% endcapture %}
@@ -46,13 +41,24 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/me1.jpg"
+  caption="School of Mechanical Engineering, Shanghai Jiao Tong University"
 %}
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% capture col3 %}
+
+{%
+  include figure.html
+  image="images/mate.jpg"
+  caption="Meta Robotics Institute, Shanghai Jiao Tong University"
+%}
+
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3%}
 
 {% include section.html dark=true %}
 

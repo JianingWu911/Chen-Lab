@@ -1,17 +1,14 @@
 ---
 ---
 
-# JianingWu911's Website
+# WHERE SOFT MATERIALS AND ROBOTICS MEET
+The Chen Lab is a team of researchers at the School of Mechanical Engineering, Shanghai Jiao Tong University, dedicated to answering important questions in the design optimization of soft robots. We focus on driving mechanisms such as pneumatic and dielectric elastomers, and designing the optimal structure of soft robots through topological optimization.
 
-An engaging 1-3 sentence description of your lab.
-
-{% include section.html %}
-
+<img src="images/together2.jpg" alt="Together"/>
 ## Highlights
-
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We utilize optimization methods to address significant inquiries in the field of soft robotics. Throughout our research endeavors, we prioritize transparency, rigor, and reproducibility.
 
 {%
   include button.html
@@ -26,7 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/GIF1.gif"
   link="research"
   title="Our Research"
   text=text
@@ -34,7 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are dedicated to integrating the advantages of soft robots with industrial production, leveraging the flexibility, safety, versatility, scalability, and cost-effectiveness of soft robots to create a better quality of life for humanity.
 
 {%
   include button.html
@@ -59,7 +56,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a team of enthusiastic researchers that want to push the frontier of soft robotics. We strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
 
 {%
   include button.html
@@ -74,7 +71,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/together2.jpg"
   link="team"
   title="Our Team"
   text=text

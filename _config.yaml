@@ -1,18 +1,15 @@
 # site properties and page defaults
-title: JianingWu911
-subtitle: 
+title: Chen Lab
+subtitle: Soft Robotics Lab
 description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+header: images/background3.jpg
+footer: images/background3.jpg
 
 # site social media and other links
 links:
-  email: contact@JianingWu911.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: JianingWu911
-  twitter: JianingWu911
-  youtube: JianingWu911
+  email: ffchen@sjtu.edu.cn
+  orcid: 0000-0001-6733-1259
+  google-scholar: mlDNufQAAAAJ
 
 ### jekyll settings
 
