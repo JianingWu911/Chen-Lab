@@ -1,6 +1,6 @@
 ---
 name: Yunpeng Miao
-image: images/ypmiao.gif
+image: images/ypmiao.jpg
 role: alumni
 group: alum
 ---

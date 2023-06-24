@@ -1,10 +1,11 @@
 # site properties and page defaults
-title: Chen Lab
-subtitle: Soft Robotics Lab
+title: Feifei Chen's Group
+# subtitle: Soft Robotics Lab
 description: An engaging 1-3 sentence description of your lab.
 header: images/background3.jpg
 footer: images/background3.jpg
-
+#  slider
+iis_slider_array: []
 # site social media and other links
 links:
   email: ffchen@sjtu.edu.cn

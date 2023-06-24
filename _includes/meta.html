@@ -26,7 +26,7 @@
 {% endif %}
 {% assign url = site.location %}
 
-{% assign png = "images/icon2.svg" | file_exists %}
+{% assign png = "images/icon.svg" | file_exists %}
 {% assign jpg = "images/icon.jpg" | file_exists %}
 {% assign icon = png | default: jpg | relative_url %}
 

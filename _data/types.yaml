@@ -145,6 +145,10 @@ info:
   icon: fa-solid fa-circle-info
   color: "#0ea5e9"
 
+news:
+  icon: fa-solid fa-newspaper
+  color: "#ff9800"
+
 success:
   icon: fa-solid fa-circle-check
   color: "#22c55e"

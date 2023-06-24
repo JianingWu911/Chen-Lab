@@ -64,8 +64,9 @@ header a {
 
 // subtitle
 .title > *:last-child {
-  opacity: 0.65;
-  font-weight: var(--thin);
+  font-size: var(--heading);
+  opacity: 1;
+  font-weight: var(--large);
 }
 
 .nav-toggle {

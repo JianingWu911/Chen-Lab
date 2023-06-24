@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 3
+  order: 2
   tooltip: About our team
 ---
 
@@ -16,10 +16,6 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 {% include list.html data="members" component="portrait" filters="role: m.s." %}
 
 {% include section.html background="images/background2.jpeg" dark=true %}
-
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. -->
 
 
 {% include section.html %}

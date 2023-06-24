@@ -1,78 +1,52 @@
 ---
+  image_sliders: 
+  - example_slider
+  image_sliders_load_all: true
 ---
 
-# WHERE SOFT MATERIALS AND ROBOTICS MEET
-The Chen Lab is a team of researchers at the School of Mechanical Engineering, Shanghai Jiao Tong University, dedicated to answering important questions in the design optimization of soft robots. We focus on driving mechanisms such as pneumatic and dielectric elastomers, and designing the optimal structure of soft robots through topological optimization.
+# {% include icon.html icon="fa-solid fa-scroll" %} NEWS
 
-<img src="images/together2.jpg" alt="Together"/>
-## Highlights
-{% capture text %}
+{% include slider_styles.html %}
 
-We utilize optimization methods to address significant inquiries in the field of soft robotics. Throughout our research endeavors, we prioritize transparency, rigor, and reproducibility.
+{% include slider.html selector="example_slider" %}
 
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+{% include slider_scripts.html %}
 
-{% endcapture %}
 
-{%
-  include feature.html
-  image="images/GIF1.gif"
-  link="research"
-  title="Our Research"
-  text=text
-%}
+# {% include icon.html icon="fa-solid fa-microscope" %} Research
 
-{% capture text %}
+We are dedicated to exploring optimization methods, such as topological optimization, in the following three directions:
 
-We are dedicated to integrating the advantages of soft robots with industrial production, leveraging the flexibility, safety, versatility, scalability, and cost-effectiveness of soft robots to create a better quality of life for humanity.
+## 1. Aerodynamic shape design of soft robots.
+<style>
+    .container {
+        display: flex;
+        align-items: center;
+    }
 
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+    .image {
+        flex: 1;
+        margin-right: 20px;
+    }
 
-{% endcapture %}
+    .text {
+        flex: 1;
+    }
+</style>
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
+<div class="container">
+    <div class="image">
+      <img src="images/research1_1.png" alt="Image">
+    </div>
+    <div class="text">
+        <h2>Geometry Design, Optimization and Characterization of Soft Pneumatic Twisting Actuators</h2>
+        <p>The aerodynamic shape design that breaks the current geometric constraints introduces parameterized freeform surfaces and integrates large deformation analysis with optimization algorithms, achieving pure torsional motion in a single material structure. Moreover, the output deformation and output torque significantly outperform existing designs.</p>
+    </div>
+</div>
+{% include section.html %}
 
-{% capture text %}
+{% include section.html %}
 
-We are a team of enthusiastic researchers that want to push the frontier of soft robotics. We strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
+## 2. Multi-material distribution design and control of anisotropic stiffness in soft robots.
 
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/together2.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
+## 3. Integrated design of actuation and structure in dielectric-driven soft robots.

@@ -1,0 +1,17 @@
+# example slider
+- selector: example_slider
+  captions: true
+  images:
+    - src: /images/together.jpg
+      title: Congratulations to Kai Luo and Dechen Li on obtaining their Master's degrees. Wishing you a bright and prosperous future ahead!
+    - src: /images/yupengmiao2022.png
+      title: RAL 2022 Paper - Triply Periodic Channels Enable Soft Pneumatic Linear Actuator with Single Material and Scalability 
+    - src: /images/shitongchen2021.png
+      title: TMECH 2021 Paper - Topology Optimization of Skeleton-Reinforced Soft Pneumatic Actuators for Desired Motions
+    - src: /images/dechenli2023.jpg
+      title: SCI CHINA 2023 Paper - Tailoring the in-plane and out-of-plane stiffness of soft fingers by endoskeleton topology optimization for stable grasping
+  settings:
+    height: "'16:9'"
+    effect: "'fade'"
+    interval: "4000"
+

@@ -1,7 +1,7 @@
 {% assign image = page.header | default: site.header | relative_url %}
 {% assign dark = page.header-dark | is_nil: site.header-dark | is_nil: true %}
 
-{% assign svg = "images/icon2.svg" | file_exists %}
+{% assign svg = "images/icon.svg" | file_exists %}
 {% assign png = "images/logo.png" | file_exists %}
 {% assign jpg = "images/logo.jpg" | file_exists %}
 {% assign logo = svg | default: png | default: jpg | default: nil %}
@@ -17,7 +17,7 @@
   {% endif %}
 >
   <a href="{{ "/" | relative_url }}" class="home">
-    {% if logo %}
+    <!-- {% if logo %}
       <span class="logo">
         {% if svg %}
           {{ svg | file_read }}
@@ -25,11 +25,11 @@
           <img src="{{ logo | relative_url }}" alt="logo">
         {% endif %}
       </span>
-    {% endif %}
+    {% endif %} -->
     {% if site.logo-text != false %}
       <span class="title" data-tooltip="Home">
         {% if site.title and site.show-title != false %}
-          <span>{{ site.title }}</span>
+        <span>{{ site.title }}</strong></span>
         {% endif %}
         {% if site.subtitle and site.show-subtitle != false %}
           <span>{{ site.subtitle }}</span>

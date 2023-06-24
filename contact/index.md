@@ -1,7 +1,7 @@
 ---
 title: Contact
 nav:
-  order: 4
+  order: 3
   tooltip: Email, address, and location
 ---
 
@@ -60,8 +60,6 @@ Our lab members come from the following institutions:
 
 {% include cols.html col1=col1 col2=col2 col3=col3%}
 
-{% include section.html dark=true %}
-
 {% capture col1 %}
 Lorem ipsum dolor sit amet  
 consectetur adipiscing elit  
@@ -79,5 +77,3 @@ Lorem ipsum dolor sit amet
 consectetur adipiscing elit  
 sed do eiusmod tempor
 {% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}

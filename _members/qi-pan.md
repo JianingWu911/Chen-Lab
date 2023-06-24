@@ -1,6 +1,6 @@
 ---
 name: Qi Pan
-image: images/qpan.gif
+image: images/qpan.jpg
 role: alumni
 group: alum
 ---
