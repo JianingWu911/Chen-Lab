@@ -5,7 +5,7 @@ nav:
   tooltip: Our photos
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Album
+# {% include icon.html icon="fa-regular fa-image" %}Album
 
 ## Congratulations to Kai Luo and Dechen Li on obtaining their Master's degrees.
 [2023-06] 

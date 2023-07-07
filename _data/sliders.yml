@@ -10,6 +10,9 @@
       title: TMECH 2021 Paper - Topology Optimization of Skeleton-Reinforced Soft Pneumatic Actuators for Desired Motions
     - src: /images/dechenli2023.jpg
       title: SCI CHINA 2023 Paper - Tailoring the in-plane and out-of-plane stiffness of soft fingers by endoskeleton topology optimization for stable grasping
+    - src: /images/SCTS_Luo.png
+      title: SCI CHINA 2023 Paper - Optimal biaxial prestretch ratios of soft dielectric elastomer actuators for maximal voltage-induced displacement
+      
   settings:
     height: "'16:9'"
     effect: "'fade'"

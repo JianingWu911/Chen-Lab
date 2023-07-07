@@ -229,3 +229,12 @@ package:
   icon: fa-solid fa-box
   text: Package
   tooltip: Package
+#others
+picture:
+  icon: fa-solid fa-image
+  text: Picture
+  tooltip: Picture
+
+
+
+
