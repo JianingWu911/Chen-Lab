@@ -2,7 +2,7 @@
 - selector: example_slider
   captions: true
   images:
-    - src: /images/together.jpg
+    - src: /images/together1.jpg
       title: Congratulations to Kai Luo and Dechen Li on obtaining their Master's degrees. Wishing you a bright and prosperous future ahead!
     - src: /images/yupengmiao2022.png
       title: RAL 2022 Paper - Triply Periodic Channels Enable Soft Pneumatic Linear Actuator with Single Material and Scalability 

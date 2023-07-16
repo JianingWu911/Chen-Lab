@@ -9,7 +9,7 @@ nav:
 
 ## Congratulations to Kai Luo and Dechen Li on obtaining their Master's degrees.
 [2023-06] 
-<img src="../images/together.jpg"/>
+<img src="../images/together1.jpg"/>
 
 ## Group outing at Hua Kai Hai Shang Sheng Tai Yuan
 [2022-11] 
