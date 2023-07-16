@@ -25,7 +25,7 @@ Chen-Lab/album/index.md文件下添加文字/时间/图片
 由于Manubot无法自动搜索部分文献（会出现下面这种报错：Couldn't parse Manubot response），因此采用手动覆盖的形式，将论文内容放在了Chen-Lab/_data/sources.yaml。
 
 # gitPage 部署方式
-- push上去，不管流水线是否成功
+- push到main分支上去，不管流水线是否成功
 - 点击 Action/build-site/run workflow/run workflow(最后这个是绿色按钮)
-- 等一段时间才会更细内容（10分钟以上）
+- 等一段时间才会更新内容（10分钟以上）
 

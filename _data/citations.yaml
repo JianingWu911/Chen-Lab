@@ -1,7 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1109/TMECH.2021.3071394
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/3516/9515346/9397352/chen1-3071394-large.gif
   title: Topology Optimization of Skeleton-Reinforced Soft Pneumatic Actuators for
     Desired Motions
   authors:
@@ -15,6 +14,7 @@
   publisher: IEEE/ASME Transactions on Mechatronics
   date: '2021-04-06'
   link: https://ieeexplore.ieee.org/abstract/document/9397352
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/3516/9515346/9397352/chen1-3071394-large.gif
   description: "We present a design paradigm for soft pneumatic multimaterial actuators\
     \ by incorporating a stiffer material layer as a skeleton to softer inflated rubber.\
     \ A topology optimization-based framework is used to automatically generate the\
