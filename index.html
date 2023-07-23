@@ -558,18 +558,31 @@
 <h2 id="1-aerodynamic-shape-design-of-soft-robots">1. Aerodynamic shape design of soft robots.</h2>
 <style>
     .container {
-        display: flex;
-        align-items: center;
+    display: flex;
+    align-items: center;
     }
 
     .image {
-        flex: 1;
-        margin-right: 20px;
+    flex: 0.5;
+    margin-right: 20px;
     }
 
     .text {
-        flex: 1;
+    flex: 1;
     }
+
+    /* 在屏幕宽度小于等于768像素时 */
+    @media (max-width: 768px) {
+    .container {
+        flex-direction: column; /* 将容器内元素改为垂直排列 */
+    }
+
+    .image {
+        margin-right: 0; /* 取消图片和文本之间的右边距 */
+        margin-bottom: 20px; /* 添加图片和文本之间的下边距 */
+    }
+    }
+
 </style>
 
 <div class="container">
