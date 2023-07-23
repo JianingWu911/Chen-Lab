@@ -26,7 +26,7 @@ Chen-Lab/album/index.md文件下添加文字/时间/图片
 
 # gitPage 部署方式
 - push到main分支上去，不管流水线是否成功
+- - 点击 Action/build-site/run workflow/run workflow(最后这个是绿色按钮),将main分支同步到gh-pages分支
 - 确定Settings/Pages/Build and deployment/Branch为gh-pages（这个分支专门用来做静态网站的）
-- 点击 Action/build-site/run workflow/run workflow(最后这个是绿色按钮)
 - 等一段时间才会更新内容（10分钟以上）
 
