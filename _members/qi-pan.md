@@ -1,5 +1,5 @@
 ---
-name: Qi Pan
+name: Qi Pan (潘琦)
 image: images/qpan.jpg
 role: alumni
 group: alum

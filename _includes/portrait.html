@@ -6,9 +6,6 @@
 
 <div class="portrait-wrapper">
   <a
-    {% if page.slug != member.slug %}
-      href="{{ member.url | relative_url }}"
-    {% endif %}
     class="portrait"
     data-style="{{ include.style }}"
     aria-label="{{ member.name | default: "member link" }}"
@@ -33,6 +30,10 @@
           <span class="portrait-role">
             {% assign type = site.data.types[member.role] %}
             {% include icon.html icon=type.icon %}
+            <span>{{type.description}}</span>
+            <br>
+            <span>Research interests:</span>
+            <br>
             <span>{{ member.description | default: type.description }}</span>
           </span>
         {% endif %}

@@ -1,0 +1,79 @@
+---
+---
+
+.portraitchen-wrapper {
+  display: contents;
+}
+
+
+
+.portraitchen {
+  position: relative;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  margin: 20px;
+  width: 300px;
+  max-width: calc(100% - 20px - 20px);
+  text-decoration: none;
+}
+
+.portraitchen[data-style="small"] {
+  width: 100px;
+}
+
+.portraitchen[data-style="tiny"] {
+  flex-direction: row;
+  gap: 15px;
+  width: unset;
+  text-align: left;
+}
+
+.portraitchen-image {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  border-radius: 999px;
+  object-fit: cover;
+  box-shadow: var(--shadow);
+}
+
+.portraitchen[data-style="tiny"] .portraitchen-image {
+  width: 50px;
+}
+
+.portraitchen[data-style="tiny"] .portraitchen-role {
+  display: none;
+}
+
+.portraitchen-text {
+  display: flex;
+  flex-direction: column;
+  line-height: calc(var(--spacing) - 0.4);
+}
+
+.portraitchen-name {
+  font-family: var(--heading);
+  font-weight: var(--semi-bold);
+}
+
+.portraitchen-role .icon {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20%;
+  aspect-ratio: 1 / 1;
+  border-radius: 999px;
+  background: var(--background);
+  box-shadow: var(--shadow);
+  transform: translate(14%, 14%);
+}
+
+.portraitchen[data-style="small"] .portraitchen-role .icon {
+  left: -2px;
+  top: -2px;
+}

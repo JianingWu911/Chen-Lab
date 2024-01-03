@@ -1,8 +1,9 @@
 ---
-name: Shitong Chen
+name: Shitong Chen (陈世通)
 image: images/stchen.jpg
-role: phd
+role: alumni
 group: alum
+description: "KUKA AG."
 ---
 
 Shitong Chen received the B.E. degree in aircraft design engineering from Xi’an Jiaotong University, Xi’an, China, in 2018. He is currently working toward the Ph.D. degree in mechanical engineering with Shanghai Jiao Tong University, Shanghai, China.

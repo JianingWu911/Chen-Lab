@@ -7,6 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-image" %}Album
 
+
+## Congratulations to Shitong Chen on obtaining his Doctor's degree.
+[2023-12] 
+<img src="../images/together4.jpg"/>
+
 ## Congratulations to Kai Luo and Dechen Li on obtaining their Master's degrees.
 [2023-06] 
 <img src="../images/together1.jpg"/>

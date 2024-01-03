@@ -1,8 +1,9 @@
 ---
-name: Xiazhi Hu 
+name: Xiazhi Hu (胡夏芝)
 image: images/xzhu.jpg
 role: m.s.
 group: alum
+description: "soft robotic gripper based on multi-layers of DEAs."
 ---
 
 

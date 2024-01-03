@@ -5,6 +5,8 @@
   display: contents;
 }
 
+
+
 .portrait {
   position: relative;
   display: inline-flex;
@@ -13,7 +15,7 @@
   flex-direction: column;
   gap: 20px;
   margin: 20px;
-  width: 175px;
+  width: 200px;
   max-width: calc(100% - 20px - 20px);
   text-decoration: none;
 }
