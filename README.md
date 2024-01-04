@@ -16,8 +16,8 @@ Chen-Lab/_data/sources.yaml 文件下按照对应格式增加即可
 - 增加新生：Chen-Lab/_members 下增加对应人的md文件，建议以人名命名，按照博士/硕士参考对应的例子修改；照片放在Chen-Lab/images下
 - 老生毕业转为alumni：Chen-Lab/_members 下对应人的md文件中设置  role: alumni
 - 硕士转博士：Chen-Lab/_members 下对应人的md文件中设置  role: phd
-## 增加NEWS内容
-Chen-Lab/_data/sliders.yml images下按照格式添加src（指定图片位置），title（指定文字）
+
+
 ## 增加album内容
 Chen-Lab/album/index.md文件下添加文字/时间/图片
 
