@@ -1,1 +1,1 @@
-Sitemap: /Chen-Lab/sitemap.xml
+Sitemap: /Homepage/sitemap.xml
