@@ -1,5 +1,5 @@
 ---
-name: Feifei Chen (陈飞飞)
+name: Feifei Chen 
 image: images/ffchen.jpg
 role: pi
 aliases:

@@ -1,6 +1,6 @@
 ---
-name: Kai Huang(黄凯)
-image: images/khuang.png
+name: Kai Huang 
+image: images/khuang.jpg
 role: phd
 group: alum
 description: "bioinspired design of soft robots."

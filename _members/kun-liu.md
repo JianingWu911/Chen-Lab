@@ -1,5 +1,5 @@
 ---
-name: Kun Liu (刘坤)
+name: Kun Liu 
 image: images/kliu.jpg
 role: alumni
 group: alum

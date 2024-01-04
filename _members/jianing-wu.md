@@ -1,5 +1,5 @@
 ---
-name: Jianing Wu (吴佳宁)
+name: Jianing Wu 
 image: images/jnwu.jpg
 role: m.s.
 group: alum

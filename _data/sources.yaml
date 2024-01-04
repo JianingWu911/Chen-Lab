@@ -148,4 +148,32 @@
 
   image: https://www.liebertpub.com/cms/10.1089/soro.2019.0105/asset/images/medium/soro.2019.0105_figure10.jpg
 
+- id: 10.1109/TMECH.2023.3322585
+  title: Soft Robotic Joints With Anisotropic Stiffness by Multiobjective Topology Optimization
+  authors:
+  - Shitong Chen
+  - Guozhen Zhou
+  - Dechen Li
+  - Zenan Song
+  - Feifei Chen
+  publisher: IEEE/ASME Transactions on Mechatronics 
+  date: '2023-10-25'
+  link: https://ieeexplore.ieee.org/document/10296179
+  description: Soft robots, inspired by compliant mechanisms, offer advantages like frictionless operation and monolithic fabrication. However, current designs often neglect stiffness characteristics in directions beyond the pursued motion, limiting practical use. This article introduces soft robotic joints with anisotropic stiffness, achieved through multi-objective topology optimization. Three basic joints—elongation, twisting, and omnidirectional bending—are automated in design. Quantitative characterization reveals improved stiffness against disturbances. Demonstrating a dexterous wrist-hand system and cable-driven fingers, the joints enable practical active motions while effectively withstanding unexpected disturbances, enhancing their applicability in confined spaces.
+  # image: 
+  
+- id: 10.1109/TRO.2023.3323825
+  title: Morphological Design for Pneumatic Soft Actuators and Robots With Desired Deformation Behavior
+  authors:
+  - Feifei Chen
+  - Zenan Song
+  - Shitong Chen
+  - Guoying Gu 
+  - Xiangyang Zhu
+  publisher: IEEE Transactions on Robotics 
+  date: '2023-10-25'
+  link: https://ieeexplore.ieee.org/document/10296178
+  description: This article introduces an integrated approach for shaping pneumatic soft actuators or robots with a homogeneous structure, allowing complex motions with a simple input pressure. The design framework leverages B-splines for freeform boundary surfaces, employing nonlinear mechanics and shape derivative-based optimization. It navigates the high-dimensional design space while regulating surface quality through geometric constraints. External forces and interactions are considered, broadening applicability to load-capacity pursuit. Computational efficiency is enhanced through trust region suboptimization, utilizing gradient information for displacement-dependent objective functions. The approach is validated across various applications, demonstrating capabilities for extension, bending, twisting motions, and continuous robot arms with in-plane and out-of-plane configurations. Multiple chamber designs for diverse deformation behaviors are also addressed through co-optimization of morphological shape and air pressures.
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8860/10352149/10296178/chen12-3323825-large.gif
+
 

@@ -1,5 +1,5 @@
 ---
-name: Jialong Liang (梁加龙)
+name: Jialong Liang 
 image: images/jlliang.jpg
 role: m.s.
 group: alum

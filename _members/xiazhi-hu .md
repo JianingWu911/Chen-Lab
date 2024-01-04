@@ -1,5 +1,5 @@
 ---
-name: Xiazhi Hu (胡夏芝)
+name: Xiazhi Hu 
 image: images/xzhu.jpg
 role: m.s.
 group: alum

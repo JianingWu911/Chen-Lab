@@ -1,5 +1,5 @@
 ---
-name: Zenan Song (宋泽楠)
+name: Zenan Song 
 image: images/znsong.jpg
 role: phd
 group: alum

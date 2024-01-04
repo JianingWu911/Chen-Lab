@@ -1,5 +1,5 @@
 ---
-name: Huangwei Ji (季皇威)
+name: Huangwei Ji 
 image: images/hwji.jpg
 role: m.s.
 group: alum

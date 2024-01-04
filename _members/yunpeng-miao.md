@@ -1,5 +1,5 @@
 ---
-name: Yunpeng Miao (缪云鹏)
+name: Yunpeng Miao 
 image: images/ypmiao.jpg
 role: alumni
 group: alum

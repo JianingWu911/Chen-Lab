@@ -1,5 +1,5 @@
 ---
-name: Shitong Chen (陈世通)
+name: Shitong Chen 
 image: images/stchen.jpg
 role: alumni
 group: alum

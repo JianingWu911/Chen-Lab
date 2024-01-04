@@ -1,5 +1,5 @@
 ---
-name: Guozhen Zhou(周国禛)
+name: Guozhen Zhou
 image: images/gzzhou.jpg
 role: phd
 group: alum

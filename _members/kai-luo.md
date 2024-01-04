@@ -1,5 +1,5 @@
 ---
-name: Kai Luo (罗凯)
+name: Kai Luo 
 image: images/kluo.png
 role: alumni
 group: alum

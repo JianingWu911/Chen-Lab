@@ -1,5 +1,5 @@
 ---
-name: Dechen Li (李德臣)
+name: Dechen Li 
 image: images/dcli.jpg
 role: alumni
 group: alum
