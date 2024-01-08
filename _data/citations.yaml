@@ -279,6 +279,7 @@
     \ disturbances. Demonstrating a dexterous wrist-hand system and cable-driven fingers,\
     \ the joints enable practical active motions while effectively withstanding unexpected\
     \ disturbances, enhancing their applicability in confined spaces."
+  image: ../images/publications/shitongchen.png
   plugin: sources.py
   file: sources.yaml
 - id: 10.1109/TRO.2023.3323825
@@ -307,5 +308,54 @@
     Multiple chamber designs for diverse deformation behaviors are also addressed
     through co-optimization of morphological shape and air pressures.
   image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8860/10352149/10296178/chen12-3323825-large.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/s11431-023-2451-x
+  title: Optimal biaxial prestretch ratios of soft dielectric elastomer actuators
+    for maximal voltage-induced displacement
+  authors:
+  - Kai Luo
+  - JiaNing Wu
+  - FeiFei Chen
+  publisher: SCIENCE CHINA Technological Sciences
+  date: '2023-09-20'
+  link: https://link.springer.com/article/10.1007/s11431-023-2451-x
+  description: This paper addresses the challenge of determining optimal prestretch
+    ratios for voltage-induced deformation in dielectric elastomer actuators (DEAs).
+    Lacking efficient design methods, the traditional approach involves time-consuming
+    experiments. The authors propose a quantitative optimization framework, integrating
+    Lagrange method and adjoint sensitivity analysis to consider DEA's nonlinearities
+    and complex electromechanical coupling. The derivative of the displacement field
+    with respect to prestretch ratios enables efficient gradient-based optimization.
+    The method is validated on planar DEAs and free-standing three-dimensional DEMES,
+    demonstrating significant improvements in displacements compared to non-optimized
+    designs in both simulations and experiments.
+  image: ../images/publications/kailuo.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/978-981-99-6492-5_13
+  title: Modeling and Design Optimization of a Pre-stretched Rolled Dielectric Elastomer
+    Actuator
+  authors:
+  - Jianing Wu
+  - Kai Luo
+  - Peinan Yan
+  - Xiazhi Hu
+  - Huangwei Ji
+  - FeiFei Chen
+  publisher: International Conference on Intelligent Robotics and Applications
+  date: '2023-10-16'
+  link: https://link.springer.com/chapter/10.1007/978-981-99-6492-5_13
+  description: This paper introduces a high-performance actuator composed of a rolled
+    dielectric elastomer actuator (DEA) connected in series with a spring for pre-stretching.
+    A simplified static model of the rolled DEA is established to predict its mechanical
+    behavior under various conditions. The optimal pre-stretch effect is achieved
+    through a two-dimensional search for the optimal combination of spring stiffness
+    and pre-stretch, maximizing free displacement, blocking force, or equivalent work.
+    Experimental validation demonstrates significant improvements in free displacement
+    and blocking force compared to a springless structure. The study provides valuable
+    insights into enhancing rolled DEAs' performance, showcasing potential applications
+    in soft robotics.
+  image: ../images/publications/jianingwu.png
   plugin: sources.py
   file: sources.yaml
