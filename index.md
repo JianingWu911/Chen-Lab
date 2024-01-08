@@ -36,13 +36,17 @@ We are committed to integrating topology optimization methods with soft robot de
 <video width="45%" muted autoplay controls>
     <source src="video/Enhancing.mp4" type="video/mp4">
 </video>
-<video width="45%" muted autoplay controls>
-    <source src="video/Tailoring.mp4" type="video/mp4">
-</video>
+
 <video width="45%" muted autoplay controls>
     <source src="video/TopologyOptimizatioin.mp4" type="video/mp4">
 </video>
 
+<video width="45%" muted autoplay controls>
+    <source src="video/Tailoring.mp4" type="video/mp4">
+</video>
+<video width="45%" muted autoplay controls>
+    <source src="video/softrobotic.mp4" type="video/mp4">
+</video>
 ## 3. Integrated design of actuation and structure in dielectric elastomer actuators.
 
 
