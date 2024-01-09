@@ -1,7 +1,7 @@
 
 # Chen Lab Website
 
-Visit **[jianingwu911.github.io/Chen-Lab](https://jianingwu911.github.io/Chen-Lab)** 🚀
+Visit **[feifeichen.cn](https://feifeichen.cn)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
 
