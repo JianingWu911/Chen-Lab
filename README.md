@@ -10,6 +10,8 @@ _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-tem
 本项目采用jekyll框架和liquid模版生成静态网站
 
 # 后期增加/修改内容步骤
+## 增加homepage 内容
+Chen-Lab/index.md 中按照相应格式添加
 ## 增加publications内容
 Chen-Lab/_data/sources.yaml 文件下按照对应格式增加即可
 ## 增加team成员
